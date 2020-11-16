@@ -1,4 +1,4 @@
-# Auto_Complete
+# Google Search Auto Completer
 
 - Aimed to create a Text Prediction Model with **MapReduce**.
 - Constructed a **N-Gram Library** database based on the frequency of its Statical Word Count by retrieving the
